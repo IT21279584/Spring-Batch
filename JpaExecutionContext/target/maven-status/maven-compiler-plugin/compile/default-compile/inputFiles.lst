@@ -1,7 +1,0 @@
-/home/hsudusinghe/SpringBoot Projects/Spring-Batch/JpaExecutionContext/src/main/java/com/example/JpaExecutionContext/BatchConfig.java
-/home/hsudusinghe/SpringBoot Projects/Spring-Batch/JpaExecutionContext/src/main/java/com/example/JpaExecutionContext/ItemProcess.java
-/home/hsudusinghe/SpringBoot Projects/Spring-Batch/JpaExecutionContext/src/main/java/com/example/JpaExecutionContext/ItemRead.java
-/home/hsudusinghe/SpringBoot Projects/Spring-Batch/JpaExecutionContext/src/main/java/com/example/JpaExecutionContext/JobListener.java
-/home/hsudusinghe/SpringBoot Projects/Spring-Batch/JpaExecutionContext/src/main/java/com/example/JpaExecutionContext/ItemWrite.java
-/home/hsudusinghe/SpringBoot Projects/Spring-Batch/JpaExecutionContext/src/main/java/com/example/JpaExecutionContext/CustomJobParametersValidator.java
-/home/hsudusinghe/SpringBoot Projects/Spring-Batch/JpaExecutionContext/src/main/java/com/example/JpaExecutionContext/JpaExecutionContextApplication.java

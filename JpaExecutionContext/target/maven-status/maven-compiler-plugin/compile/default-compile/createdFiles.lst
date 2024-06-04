@@ -1,7 +1,0 @@
-com/example/JpaExecutionContext/ItemRead.class
-com/example/JpaExecutionContext/JpaExecutionContextApplication.class
-com/example/JpaExecutionContext/ItemProcess.class
-com/example/JpaExecutionContext/ItemWrite.class
-com/example/JpaExecutionContext/CustomJobParametersValidator.class
-com/example/JpaExecutionContext/JobListener.class
-com/example/JpaExecutionContext/BatchConfig.class
